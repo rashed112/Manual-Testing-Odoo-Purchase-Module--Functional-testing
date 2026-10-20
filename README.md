@@ -37,4 +37,6 @@ This repository contains end-to-end *Functional Manual Testing* artifacts for th
 
 ## Test TemplatE Photo
 <img width="908" height="317" alt="Screenshot 2026-10-20 120124" src="https://github.com/user-attachments/assets/6d1b9321-526b-4ea9-bf11-fd50df79304e" />
+## Test Summary photo
+<img width="680" height="269" alt="2Screenshot 2026-10-20 121114" src="https://github.com/user-attachments/assets/fac58ea7-0ed5-4a5f-9a1a-51e02399e733" />
 
