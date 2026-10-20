@@ -1,3 +1,4 @@
+
 # Odoo Purchase Module - Functional Manual Testing Portfolio
 
 ## 📌 Project Overview
@@ -34,12 +35,6 @@ This repository contains end-to-end *Functional Manual Testing* artifacts for th
 
 ---
 
-
-## 🛠️ Tools & Methodology
-* *Test Case Management:* Microsoft Excel / Google Sheets
-* *Defect Tracking:* Issue Logging & Severity Mapping
-* *Documentation:* MS Word / Markdown
-
----
-
 ## Test TemplatE Photo
+<img width="908" height="317" alt="Screenshot 2026-10-20 120124" src="https://github.com/user-attachments/assets/6d1b9321-526b-4ea9-bf11-fd50df79304e" />
+
