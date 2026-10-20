@@ -34,6 +34,7 @@ This repository contains end-to-end *Functional Manual Testing* artifacts for th
 
 ---
 
+
 ## 🛠️ Tools & Methodology
 * *Test Case Management:* Microsoft Excel / Google Sheets
 * *Defect Tracking:* Issue Logging & Severity Mapping
@@ -41,4 +42,4 @@ This repository contains end-to-end *Functional Manual Testing* artifacts for th
 
 ---
 
-👨‍💻 *Tester Profile:* [rashed112](https://github.com/rashed112)
+## Test TemplatE Photo
